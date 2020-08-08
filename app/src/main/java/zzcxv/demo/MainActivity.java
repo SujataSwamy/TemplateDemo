@@ -1,7 +1,8 @@
-package com.app.demonow;
+package zzcxv.demo;
 
 import android.os.Bundle;
 
+import com.app.demonow.R;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.android.material.snackbar.Snackbar;
 
