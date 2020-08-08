@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "155346167938",
+    "firebase_url": "https://zzcxv-c780e.firebaseio.com",
+    "project_id": "zzcxv-c780e",
+    "storage_bucket": "zzcxv-c780e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155346167938:android:e1c15d6ec4c187ba112c9b",
+        "android_client_info": {
+          "package_name": "zzcxv.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155346167938-531snd9avaqj4ujckl6c1roamjufgbl6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-2HVYLI1gSy3wX0sPxNmU4rK_FxL5EuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155346167938-531snd9avaqj4ujckl6c1roamjufgbl6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
