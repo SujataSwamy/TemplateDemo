@@ -26,4 +26,4 @@ before_install:
 before_script:
 - env
 script:
-- "./firebase1.sh"
+- "./build_command.sh"
