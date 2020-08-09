@@ -26,7 +26,7 @@ gcloud firebase test android versions list
 ./gradlew testDevDebugUnitTest
 ./gradlew :app:assembleDebugAndroidTest
 
-gcloud firebase test android run --app app/build/outputs/apk/deb ug/app-debug.apk --type=robo --device model=Pixel2,version=28
+gcloud firebase test android run --app app/build/outputs/apk/debug/app-debug.apk --type=robo --device model=Pixel2,version=28
 gcloud firebase test android run \
     --type instrumentation \
     --app app/build/outputs/apk/debug/app-debug.apk \
